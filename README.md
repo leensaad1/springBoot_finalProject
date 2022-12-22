@@ -3,7 +3,7 @@
 
 # Hospital Management System
 
-Introduction
+Introduction:
 
 This system will help doctors prescripe and folllow up with patient's medications and their treatment progression easly. 
 

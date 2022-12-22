@@ -1,4 +1,4 @@
-# springBoot_finalProject
+# SpringBoot_FinalProject
 
 
 # Hospital Management System
